@@ -4,7 +4,7 @@ import { GiftExpertApp } from './GiftExpertApp'
 import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <GiftExpertApp />
-  </React.StrictMode>,
+  // </React.StrictMode>,
 )
